@@ -1,2 +1,2 @@
-# C41RV_SpeedRacer_TeacherActivity
-Teacher Activity
+Speed Racer
+
